@@ -145,9 +145,6 @@ Pumpkit aims to democratize KOL-like influence and make it accessible to everyon
 ![c0e8a78e-016f-4032-b2d3-ae2de4001d60](https://github.com/user-attachments/assets/c4b3dcfa-87c4-4ecb-bcd5-6d694df94be9)
 
 
-## Source Code
-https://github.com/s-alih/pumpkit-lens
-
 ## Presentation
 https://drive.google.com/file/d/1Qx6fVKEx33A3WQmcOCFB69z9dZlRBaha/view?usp=sharing
 
