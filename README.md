@@ -21,7 +21,7 @@ Key highlights:
 - **Response:**
   ```json
   {
-    "tweetId": "123456789012345678"
+    "post_sent": true
   }
   ```
 
